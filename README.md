@@ -35,7 +35,7 @@ gcc -Wall -Wextra -o contact_book main.c
 ```bash
 ./contact_book
 ```
-📝 Usage
+📝 Usage:
 
 ===== CONTACT BOOK =====
 1. Add Contact
@@ -44,4 +44,5 @@ gcc -Wall -Wextra -o contact_book main.c
 4. Delete Contact
 5. Save to File
 6. Exit
+   
 =======================
