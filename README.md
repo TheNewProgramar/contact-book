@@ -1,3 +1,12 @@
+📚 Learning Goals
+
+This project is for learning:
+
+   - Dynamic memory allocation
+   - File I/O
+   - String manipulation
+   - Data structures in C
+
 # 📇 Contact Book
 
 A simple command-line contact book application written in C.
