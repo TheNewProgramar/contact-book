@@ -35,16 +35,7 @@ A simple command-line contact book application written in C.
 - GCC compiler
 - Linux/Unix or Windows
 
-
 ---
-
-## ✅ Clone the Repository Locally
-
-```bash
-# Clone your repo
-git clone https://github.com/TheNewProgramar/contact-book-c.git
-cd contact-book-c
-```
 ## 🚀 How to Compile
 
 ```bash
