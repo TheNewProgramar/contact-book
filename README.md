@@ -1,0 +1,33 @@
+# 📇 Contact Book
+
+A simple command-line contact book application written in C.
+
+## ✨ Features
+
+- ✅ Add new contacts (name and phone)
+- ✅ Add optional email and address
+- ✅ View all contacts
+- ✅ Search contacts by name or phone
+- ✅ Delete contacts
+- ✅ Save contacts to file
+- ✅ Load contacts from file
+- ✅ Dynamic memory (unlimited contacts)
+- ✅ Data persists between sessions
+
+## 🛠️ Planned Features
+
+- [ ] Sort contacts alphabetically
+- [ ] Edit existing contacts
+- [ ] Export to CSV
+- [ ] Import from CSV
+
+## 📋 Requirements
+
+- GCC compiler
+- Linux/Unix or Windows
+
+## 🚀 How to Compile
+
+```bash
+gcc -Wall -Wextra -o contact_book main.c
+
