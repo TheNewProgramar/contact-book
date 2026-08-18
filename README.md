@@ -34,3 +34,14 @@ gcc -Wall -Wextra -o contact_book main.c
 🏃 How to Run
 ```bash
 ./contact_book
+```
+📝 Usage
+
+===== CONTACT BOOK =====
+1. Add Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Save to File
+6. Exit
+=======================
