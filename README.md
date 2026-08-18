@@ -46,3 +46,9 @@ gcc -Wall -Wextra -o contact_book main.c
 6. Exit
    
 =======================
+
+📁 File Format
+
+Contacts are saved in contacts.txt:
+
+Name|Phone|Email|Address
