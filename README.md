@@ -30,4 +30,7 @@ A simple command-line contact book application written in C.
 
 ```bash
 gcc -Wall -Wextra -o contact_book main.c
-
+```
+🏃 How to Run
+```bash
+./contact_book
